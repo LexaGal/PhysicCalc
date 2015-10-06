@@ -1,0 +1,8 @@
+F:\Win7\Physics\Physics\Physics\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\Win7\Physics\Physics\Physics\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\Win7\Physics\Physics\Physics\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\Win7\Physics\Physics\Physics\ConsoleUI\bin\Debug\Calculator.dll
+F:\Win7\Physics\Physics\Physics\ConsoleUI\bin\Debug\Calculator.pdb
+F:\Win7\Physics\Physics\Physics\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+F:\Win7\Physics\Physics\Physics\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\Win7\Physics\Physics\Physics\ConsoleUI\obj\Debug\ConsoleUI.pdb

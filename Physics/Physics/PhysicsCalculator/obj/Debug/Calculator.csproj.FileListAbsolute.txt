@@ -1,0 +1,5 @@
+F:\Win7\Physics\Physics\Physics\PhysicsCalculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Win7\Physics\Physics\Physics\PhysicsCalculator\bin\Debug\Calculator.dll
+F:\Win7\Physics\Physics\Physics\PhysicsCalculator\bin\Debug\Calculator.pdb
+F:\Win7\Physics\Physics\Physics\PhysicsCalculator\obj\Debug\Calculator.dll
+F:\Win7\Physics\Physics\Physics\PhysicsCalculator\obj\Debug\Calculator.pdb
